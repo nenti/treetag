@@ -1,0 +1,20 @@
+body{
+        margin:0;
+        padding:0;
+        overflow:hidden;
+        background:yellow;
+        color:white;
+        text-align:right;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size:0.8em;
+    }
+
+canvas {
+    position:absolute;
+    z-index:-1;
+}
+
+input {
+    position:absolute;
+    z-index:100;
+}

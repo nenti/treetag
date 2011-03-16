@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<svg width="150" height="360" xmlns="http://www.w3.org/2000/svg"> 
+ <title>Person Stick Green</title> 
+ <!--<rect fill="#d81e05" width="150" height="360"/>-->
+ <defs> 
+  <linearGradient y2="1" x2="1" y1="0" x1="0" id="svg_1"> 
+   <stop stop-color="#003366" offset="0"/> 
+   <stop stop-color="#3a59ae" offset="1"/> 
+  </linearGradient> 
+ </defs> 
+ <g display="inline"> 
+  <title>Layer 1</title> 
+  <path fill-opacity="0.98" d="m45,90l-46.639999,80.122177l27.806,9.456192l21.834,-62.732803l-2.151001,98.118668l-17.507004,144.660751c18,0 62.156998,-2.442108 32.005005,-1.397675c27.423004,-0.679199 8.395004,-133.074799 10.091003,-135.112457l-1.516006,134.229004l46.459991,1.601929l-19.505981,-143.302338l-1.152008,-97.797882l26.528992,63.579041l22.351013,-10.379715l-45.184021,-81.044891l-53.419983,0z" id="path563" stroke-width="1pt" fill-rule="evenodd" fill="url(#svg_1)"/> 
+  <path fill-opacity="0.98" d="m70,0c-59.81308,1.394211 -59.176697,87.140598 -1.909088,87.837788c61.722168,0 63.630493,-87.140598 1.909088,-87.837788z" id="path564" stroke-width="1pt" fill-rule="evenodd" fill="url(#svg_1)"/> 
+ </g> 
+</svg>
